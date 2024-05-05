@@ -1,2 +1,2 @@
-# BovineTeatVet
+# vetMedGPT
 BovineTeatVet Project
